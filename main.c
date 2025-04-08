@@ -6,7 +6,6 @@ int main() {
     char password[50];
     char correctUsername[] = "admin";
     char correctPassword[] = "1234";
-    error 
 
     printf("Ingrese su nombre de usuario: ");
     scanf("%49s", username);
