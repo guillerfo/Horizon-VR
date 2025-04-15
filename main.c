@@ -19,13 +19,10 @@ int main() {
         printf("Credenciales incorrectas\n");
     }
 
-<<<<<<< HEAD
     printf("Modificacion del amin antes del merch\n");
     printf("Efectos de sonido\n");
     printf("Interpretacion de gestos\n");
-=======
     printf("Interfaz de acceso \n");
->>>>>>> Interfaz_acceso
 
     return 0;
 }
