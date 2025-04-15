@@ -19,7 +19,7 @@ int main() {
         printf("Credenciales incorrectas\n");
     }
 
-    printf("Interfaz de acceso\n");
+    printf("Interfaz de acceso \n");
 
     return 0;
 }
