@@ -19,5 +19,7 @@ int main() {
         printf("Credenciales incorrectas\n");
     }
 
+    printf("Interpretacion de gestos\n");
+
     return 0;
 }
