@@ -21,6 +21,7 @@ int main() {
 
     printf("Modificacion del amin antes del merch\n");
     printf("Efectos de sonido\n");
+    printf("Interpretacion de gestos\n");
 
     return 0;
 }
