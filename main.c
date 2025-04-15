@@ -19,5 +19,7 @@ int main() {
         printf("Credenciales incorrectas\n");
     }
 
+    printf("Efectos de sonido\n");
+
     return 0;
 }
