@@ -19,7 +19,11 @@ int main() {
         printf("Credenciales incorrectas\n");
     }
 
+<<<<<<< HEAD
     printf("Modificacion del amin antes del merch\n");
+=======
+    printf("Efectos de sonido\n");
+>>>>>>> Efecto_sonido
 
     return 0;
 }
